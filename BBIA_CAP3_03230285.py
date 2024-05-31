@@ -3,7 +3,7 @@
 # BBI A
 # 03230285
 #reference : https://www.youtube.com/watch?v=Uh2ebFW8OYM
-# Solution Score: 
+# Solution Score: 478243
 
 
 import os
